@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{21FB6DD3-7331-4F50-9075-697581942D56}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SharingApp/ViewController.cs">
+    <Files>
+      <File FileName="SharingApp/ViewController.cs" Line="19" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SharingApp" expanded="True">
+            <Node name="SharingApp" expanded="True">
+              <Node name="ViewController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SharingApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DBD4DA4E-1823-4162-A794-F38B59838FE8" />
+</Properties>
